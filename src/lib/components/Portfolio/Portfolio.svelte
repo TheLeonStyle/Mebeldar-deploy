@@ -3,10 +3,6 @@
 	import { onDestroy, onMount } from 'svelte';
 	import { slide } from 'svelte/transition';
 	
-	const {portfolio} = $props()
-	
-	console.log(portfolio);
-
 	// Комнаты
 	const rooms = [
 		{

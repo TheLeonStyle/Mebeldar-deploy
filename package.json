@@ -15,7 +15,8 @@
 		"@eslint/compat": "^1.2.5",
 		"@eslint/js": "^9.18.0",
 		"@sveltejs/adapter-auto": "^6.0.0",
-		"@sveltejs/kit": "^2.22.0",
+		"@sveltejs/adapter-vercel": "^6.3.3",
+		"@sveltejs/kit": "^2.53.4",
 		"@sveltejs/vite-plugin-svelte": "^6.0.0",
 		"eslint": "^9.18.0",
 		"eslint-config-prettier": "^10.0.1",
@@ -28,9 +29,6 @@
 		"vite": "^7.0.4"
 	},
 	"dependencies": {
-		"@sveltejs/adapter-node": "^5.5.1",
-		"@sveltejs/adapter-static": "^3.0.8",
-		"@sveltejs/adapter-vercel": "^6.3.3",
 		"aos": "^2.3.4",
 		"keen-slider": "^6.8.6"
 	}
